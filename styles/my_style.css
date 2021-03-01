@@ -22,7 +22,7 @@ body{
 		left: 0;
 		top: 0;
 		height: 100%;
-		background-color: #ab0f15;
+		background-color: #2566dd;
 		z-index: 100;
 		transition: width 300ms;
 	}
@@ -63,7 +63,7 @@ body{
 		background-color: #fff;
 		padding-top: 1rem;
 		padding-bottom: 1rem;
-		color: #ab0f15;
+		color: #2566dd;
 		border-radius: 30px 0 0 30px; 
 	}
 
@@ -179,7 +179,7 @@ body{
 	}
 
 	.card-single div:last-child span{
-		color: #ab0f15;
+		color: #2566dd;
 		font-size: 3rem;
 	}
 
@@ -188,7 +188,7 @@ body{
 	}
 
 	.card-single:last-child{
-		background-color: #ab0f15;
+		background-color: #2566dd;
 		color: #fff;
 	}
 
@@ -228,12 +228,12 @@ body{
 	}
 
 	.card-header button{
-		background-color: #ab0f15;
+		background-color: #2566dd;
 		color: #fff;
 		border-radius: 10px;
 		font-size: 0.8rem;
 		padding: 0.5rem 1rem;
-		border: 1px solid #ab0f15;
+		border: 1px solid #2566dd;
 	}
 
 	table{
@@ -366,7 +366,7 @@ body{
 
 		header h3 label{
 			align-items: center;
-			background-color: #ab0f15;
+			background-color: #2566dd;
 			padding-right: 0rem;
 			margin-right: 1rem;
 			height: 40px;
